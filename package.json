@@ -1,0 +1,16 @@
+{
+  "name": "devops4b",
+  "version": "1.0.0",
+  "description": "Minimal Node.js web app using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
